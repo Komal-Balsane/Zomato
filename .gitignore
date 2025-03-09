@@ -24,7 +24,4 @@ yarn-error.log*
 
 
 #ignoring all files
-src/components/*
-public/*
-src/*
 
